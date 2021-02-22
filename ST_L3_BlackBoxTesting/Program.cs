@@ -2,6 +2,7 @@
 
 namespace ST_L3_BlackBoxTesting
 {
+
     // y = sin((e^x-3a)/(a^2+b^2)) + 10/x^3
     class Program
     {
